@@ -1,4 +1,4 @@
-# BAFIS (Battle-Arena for Fair Image Synthesis): a Dataset and Framework to assess occupational Bias and Human Preference in current Text-to-Image generative Models
+# BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models
 
 ![License CC](https://img.shields.io/badge/license-CC-green.svg?style=plastic)
 ![Format PNG](https://img.shields.io/badge/format-PNG-green.svg?style=plastic)
@@ -46,13 +46,13 @@ Each version of the dataset includes a `metadata.json` file specifying image inf
 
 ### References
 
-If you have used the BAFIS dataset, please cite the following paper:
+If you have used the BAFIS dataset, please cite our paper:
 
-[1] BAFIS: a Dataset and Framework to assess occupational Bias and Human Preference in current Text-to-Image generative Models. Thomas Klassert, Biying Fu, AdrianUlges. ... (2025)
+[1] BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models. Thomas Klassert, Biying Fu, Adrian Ulges. ... (2025)
 
 ```
 @article{klassert2025bafis,
-  title={BAFIS: a Dataset and Framework to assess occupational Bias and Human Preference in current Text-to-Image generative Models},
+  title={BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models.},
   author={Klassert, Thomas and Fu, Biying and Ulges, Adrian},
   journal={...},
   year={2025},
