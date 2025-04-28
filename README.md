@@ -42,7 +42,7 @@ Each version of the dataset includes a `metadata.json` file specifying image inf
 
 ### Paper
 
-- The full-text PDF is available via the following link: [BAFIS: a Dataset and Framework to assess occupational Bias and Human Preference in current Text-to-Image generative Models](https://example.com)
+- The full-text PDF is available via the following link: [BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models](https://example.com)
 
 ### References
 
