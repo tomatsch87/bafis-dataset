@@ -40,26 +40,6 @@ Each version of the dataset includes a `metadata.json` file specifying image inf
 }
 ```
 
-### Paper
-
-- The full-text PDF is available via the following link: [BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models](https://example.com)
-
-### References
-
-If you have used the BAFIS dataset, please cite our paper:
-
-[1] BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models. Thomas Klassert, Biying Fu, Adrian Ulges. ... (2025)
-
-```
-@article{klassert2025bafis,
-  title={BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models.},
-  author={Klassert, Thomas and Fu, Biying and Ulges, Adrian},
-  journal={...},
-  year={2025},
-  publisher={...}
-}
-```
-
 ### License
 
 The dataset is licensed under the CC BY 4.0 license. See the LICENSE file for more information.
