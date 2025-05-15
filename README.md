@@ -5,7 +5,7 @@
 ![Resolution 1024×1024](https://img.shields.io/badge/resolution-1024×1024-green.svg?style=plastic)
 ![Images 20000](https://img.shields.io/badge/images-20,000-green.svg?style=plastic)
 
-![BAFIS overview image](/baifs_banner.jpg)
+![BAFIS overview image](/bafis_banner.jpg)
 
 ## Short Description
 
