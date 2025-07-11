@@ -9,7 +9,7 @@
 
 ## Short Description
 
-[BAFIS](http://bafis.cs.hs-rm.de/) is a research project that aims to investigate how language differences influence bias in modern Text-to-Image models such as _Stable Diffusion 3 Medium_, _FLUX.1-dev_,_Playground v2.5_, _Midjourney_ and _DALL-E 3_ and whether people can subjectively assess this bias.
+BAFIS is a research project that aims to investigate how language differences influence bias in modern Text-to-Image models such as _Stable Diffusion 3 Medium_, _FLUX.1-dev_,_Playground v2.5_, _Midjourney_ and _DALL-E 3_ and whether people can subjectively assess this bias.
 
 As part of the project, we generated a dataset of synthetic images using the preceding models with multi-lingual text prompts from the [MAGBIG](https://huggingface.co/datasets/felfri/MAGBIG) dataset, which focuses on prompts for occupational portraits. The dataset is limited to images generated for the prompt languages _English_ and _German_.
 
