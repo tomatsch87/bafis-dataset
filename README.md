@@ -19,11 +19,30 @@ For each prompt, we generated _4_ images using the models mentioned above result
 
 The images are provided in the form of a _filtered_ dataset. The dataset has been filtered using [DeepFace](https://github.com/serengil/deepface) (with YOLOv8 as the detection backend) to exclude images that lack discernible faces.
 
-### Dataset
+## Dataset
 
 The dataset is available via [Zenodo](https://zenodo.org/records/14025071).
 
-### Metadata
+## Paper
+
+The paper can be found [here](https://openaccess.thecvf.com/content/WACV2026/papers/Klassert_BAFIS_Dataset__Framework_to_Assess_Occupational_Bias_and_Human_WACV_2026_paper.pdf).
+
+## Citation
+
+If you use the dataset, please cite our paper:
+
+```
+@InProceedings{Klassert_2026_WACV,
+    author    = {Klassert, Thomas and Ulges, Adrian and Fu, Biying},
+    title     = {BAFIS: Dataset + Framework to Assess Occupational Bias and Human Preference in Modern Text-to-image Models},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {March},
+    year      = {2026},
+    pages     = {2168-2177}
+}
+```
+
+## Metadata
 
 Each version of the dataset includes a `metadata.json` file specifying image information in a machine-readable format:
 
@@ -40,6 +59,6 @@ Each version of the dataset includes a `metadata.json` file specifying image inf
 }
 ```
 
-### License
+## License
 
 The dataset is licensed under the CC BY 4.0 license. See the LICENSE file for more information.
